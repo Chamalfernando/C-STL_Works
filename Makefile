@@ -76,7 +76,7 @@ endif
 ################################## COMMANDS ##################################
 ##############################################################################
 
-################## make  			|  			 Build the project.
+################## make             |             Build the project.
 ################## make run         |         Run the executable.
 ################## make clean       |       Clean intermediate object files.
 ################## make remove      |      Remove the compiled executable. 
