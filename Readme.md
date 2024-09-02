@@ -7,6 +7,8 @@
 
 ## 1. Clone the git repository using the link.
 
+### [clone_link](https://github.com/Chamalfernando/C-STL_Works.git)
+
 ##### Note that I have used only one entry point which is main.cpp in this case in order to run the program. Main method would be defined only there and I have included the header.hpp in all the other files in order to access all the other methods which are defined in each other files.
 ## 2. Go to the terminal in the relevant project path and enter the following commands.
 
@@ -16,11 +18,11 @@
 
 #### > make run
 
-##### This command will run the executable file which was created in the earlier step, and it will prompt any error if there is a compile time error while compiling.
+##### This command will run the executable file which was created in the earlier step, and it will prompt any error while running the executable.
 
 #### > make clean
 
-##### This command will clean the "build" directory which includes all the intermediate object files which are unnecessary for this project.
+##### This command will clean the "build" directory which includes all the intermediate object files which are unnecessary for this project in this case.
 
 #### > make remove 
 
