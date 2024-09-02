@@ -1,11 +1,18 @@
 #include "header.hpp"
-#include <iostream>
-#include <bits/stdc++.h>
-using namespace std;
 
 int main()
 {
     // explainPairs();
-    explainVectors();
+    // explainVectors();
+    // explainDeque();
+    // explainStack();
+    // explainQueue();
+    // explainPriorityQ();
+    explainSet();
+    // explainMultiSet();
+    // explainunOrderedSet();
+    // explainMap();
+    // explainMultiMap();
+
     return 0;
 }

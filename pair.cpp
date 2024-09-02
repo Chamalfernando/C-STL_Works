@@ -1,7 +1,4 @@
 #include "header.hpp"
-#include <iostream>
-#include <bits/stdc++.h>
-using namespace std;
 
 // Pairs - part of utility library.
 void explainPairs()
