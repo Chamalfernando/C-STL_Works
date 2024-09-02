@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    explainPairs();
+    // explainPairs();
     explainVectors();
     return 0;
 }

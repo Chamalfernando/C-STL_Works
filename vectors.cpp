@@ -5,10 +5,10 @@ using namespace std;
 
 void explainVectors()
 {
-    vector<int> v; // can dynamically increases it's size.
+    // vector<int> v; // can dynamically increases it's size.
 
-    v.push_back(2);    // {} -> {1}
-    v.emplace_back(2); // faster than push_back()
+    // v.push_back(2);    // {} -> {1}
+    // v.emplace_back(2); // faster than push_back()
 
     vector<pair<int, int>> vec;
     vec.push_back({1, 2});  // if use push_back() to insert a pair, you have to use {} to denote that.
